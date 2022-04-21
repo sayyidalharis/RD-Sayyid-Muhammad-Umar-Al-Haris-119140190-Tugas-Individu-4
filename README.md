@@ -13,21 +13,17 @@ TUGAS 4 PAM RD 11940190
     Kelas   : Pengembangan Aplikasi Mobile - RD
 
 <b> Extra dependencies: </b>
-        "dependencies": {
-            "@react-navigation/bottom-tabs": "^6.2.0",
-            "@react-navigation/native": "^6.0.8",
-            "@react-navigation/native-stack": "^6.5.0",
-            "expo": "~44.0.0",
-            "expo-status-bar": "~1.2.0",
-            "expo-updates": "~0.11.6",
-            "react": "17.0.1",
-            "react-dom": "17.0.1",
-            "react-native": "0.64.3",
-            "react-native-safe-area-context": "3.3.2",
-            "react-native-screens": "~3.10.1",
-            "react-native-vector-icons": "^9.1.0",
-            "react-native-web": "0.17.1"
-        },
+  "dependencies": {
+    "expo": "~44.0.0",
+    "expo-barcode-scanner": "~11.2.0",
+    "expo-clipboard": "~2.1.0",
+    "expo-status-bar": "~1.2.0",
+    "expo-updates": "~0.11.6",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "0.64.3",
+    "react-native-web": "0.17.1"
+  },
 
 To download dependencies:
 
@@ -41,20 +37,22 @@ To start the app:
 
 <b> Screenshots <b>
     
-Landing Screen (Tab Beranda):
+First time opening the app :
     
-<img src="https://github.com/sayyidalharis/utsPAMsayyid/blob/master/screenshots/1. Home Screen.jpeg" height=1000>
+<img src="https://github.com/sayyidalharis/utsPAMsayyid/blob/master/screenshots/1. First time opening the app.jpeg" height=1000>
     
-Tab Pesanan :
+Granting access :
     
-<img src="https://github.com/sayyidalharis/utsPAMsayyid/blob/master/screenshots/8. Daftar atau Informasi Pemesanan.jpeg" height=1000>
-<img src="https://github.com/sayyidalharis/utsPAMsayyid/blob/master/screenshots/9. Pemesanan Details.jpeg" height=1000>
+<img src="https://github.com/sayyidalharis/utsPAMsayyid/blob/master/screenshots/2. Granting access.jpeg" height=1000>
     
-Tab Pembatalan :
+Scanning QR and Copying the link :
     
-<img src="https://github.com/sayyidalharis/utsPAMsayyid/blob/master/screenshots/10. Pembatalan pada Pemesanan.jpeg" height=1000>
+<img src="https://github.com/sayyidalharis/utsPAMsayyid/blob/master/screenshots/3. Initial screen.jpeg" height=1000>    
+<img src="https://github.com/sayyidalharis/utsPAMsayyid/blob/master/screenshots/4. QR got scanned.jpeg" height=1000>    
+<img src="https://github.com/sayyidalharis/utsPAMsayyid/blob/master/screenshots/5. Copy and show link from QR.jpeg" height=1000>
     
-Tab Lainnya :
     
-<img src="https://github.com/sayyidalharis/utsPAMsayyid/blob/master/screenshots/4. Lainnya, Identitas.jpeg" height=1000>
+Scanning new QR :
+    
+<img src="https://github.com/sayyidalharis/utsPAMsayyid/blob/master/screenshots/6. Scanning again.jpeg" height=1000>
  
