@@ -34,14 +34,20 @@ Extra API dependencies:
  - <a href="https://docs.expo.dev/versions/v44.0.0/sdk/bar-code-scanner/"><b>Expo BarCodeScanner</b></a>
  - <a href="https://docs.expo.dev/versions/v44.0.0/sdk/clipboard/"><b>Expo Clipboard</b></a>
 
-To download dependencies:
+1. Using EXPO to run the app
 
-    npm install
+    To download dependencies:
+
+        npm install
 
 
-To start the app:
+    To start the app:
 
-    expo start
+        expo start
+
+2. Install the .apk file on your android
+
+    After installing the app, grant app the permission to access the android's camera to use the app properly. Now enjoy scanning some QR codes! <3
 
 
 <b> Screenshots <b>
