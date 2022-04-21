@@ -52,7 +52,8 @@ How to use the app:
 
     After installing the app, grant app the permission to access the android's camera to use the app properly. Now enjoy scanning some QR codes and copying the result! <3
 
-
+  <br>
+  <br>
 <b> Screenshots <b>
     
     
@@ -60,12 +61,18 @@ First time opening the app :
     
 <img src="https://github.com/sayyidalharis/RD-Sayyid-Muhammad-Umar-Al-Haris-119140190-Tugas-Individu-4/blob/master/screenshots/1. First time opening the app.jpeg" height=1000>
     
+
+  <br>
+  <br>
     
     
 Granting access :
     
 <img src="https://github.com/sayyidalharis/RD-Sayyid-Muhammad-Umar-Al-Haris-119140190-Tugas-Individu-4/blob/master/screenshots/2. Granting access.jpeg" height=1000>
     
+
+  <br>
+  <br>
     
     
 Scanning QR and Copying the link :
@@ -73,6 +80,9 @@ Scanning QR and Copying the link :
 <img src="https://github.com/sayyidalharis/RD-Sayyid-Muhammad-Umar-Al-Haris-119140190-Tugas-Individu-4/blob/master/screenshots/3. Initial screen.jpeg" height=1000>   
 <img src="https://github.com/sayyidalharis/RD-Sayyid-Muhammad-Umar-Al-Haris-119140190-Tugas-Individu-4/blob/master/screenshots/4. QR got scanned.jpeg" height=1000>   
 <img src="https://github.com/sayyidalharis/RD-Sayyid-Muhammad-Umar-Al-Haris-119140190-Tugas-Individu-4/blob/master/screenshots/5. Copy and show link from QR.jpeg" height=1000>
+
+  <br>
+  <br>
     
 Scanning new QR :
     
