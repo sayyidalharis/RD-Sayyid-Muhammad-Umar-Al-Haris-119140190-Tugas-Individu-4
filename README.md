@@ -33,6 +33,9 @@ TUGAS 4 PAM RD 11940190
 Extra API dependencies:
  - <a href="https://docs.expo.dev/versions/v44.0.0/sdk/bar-code-scanner/"><b>Expo BarCodeScanner</b></a>
  - <a href="https://docs.expo.dev/versions/v44.0.0/sdk/clipboard/"><b>Expo Clipboard</b></a>
+  <br>
+  
+How to use the app:
 
 1. Using EXPO to run the app
 
