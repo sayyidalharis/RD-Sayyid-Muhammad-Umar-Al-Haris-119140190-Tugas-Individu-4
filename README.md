@@ -39,20 +39,19 @@ To start the app:
     
 First time opening the app :
     
-<img src="https://github.com/sayyidalharis/utsPAMsayyid/blob/master/screenshots/1. First time opening the app.jpeg" height=1000>
+<img src="https://github.com/sayyidalharis/RD-Sayyid-Muhammad-Umar-Al-Haris-119140190-Tugas-Individu-4/blob/master/screenshots/1. First time opening the app.jpeg" height=1000>
     
 Granting access :
     
-<img src="https://github.com/sayyidalharis/utsPAMsayyid/blob/master/screenshots/2. Granting access.jpeg" height=1000>
+<img src="https://github.com/sayyidalharis/RD-Sayyid-Muhammad-Umar-Al-Haris-119140190-Tugas-Individu-4/blob/master/screenshots/2. Granting access.jpeg" height=1000>
     
 Scanning QR and Copying the link :
     
-<img src="https://github.com/sayyidalharis/utsPAMsayyid/blob/master/screenshots/3. Initial screen.jpeg" height=1000>    
-<img src="https://github.com/sayyidalharis/utsPAMsayyid/blob/master/screenshots/4. QR got scanned.jpeg" height=1000>    
-<img src="https://github.com/sayyidalharis/utsPAMsayyid/blob/master/screenshots/5. Copy and show link from QR.jpeg" height=1000>
-    
+<img src="https://github.com/sayyidalharis/RD-Sayyid-Muhammad-Umar-Al-Haris-119140190-Tugas-Individu-4/blob/master/screenshots/3. Initial screen.jpeg" height=1000>   
+<img src="https://github.com/sayyidalharis/RD-Sayyid-Muhammad-Umar-Al-Haris-119140190-Tugas-Individu-4/blob/master/screenshots/4. QR got scanned.jpeg" height=1000>   
+<img src="https://github.com/sayyidalharis/RD-Sayyid-Muhammad-Umar-Al-Haris-119140190-Tugas-Individu-4/blob/master/screenshots/5. Copy and show link from QR.jpeg" height=1000>
     
 Scanning new QR :
     
-<img src="https://github.com/sayyidalharis/utsPAMsayyid/blob/master/screenshots/6. Scanning again.jpeg" height=1000>
+<img src="https://github.com/sayyidalharis/RD-Sayyid-Muhammad-Umar-Al-Haris-119140190-Tugas-Individu-4/blob/master/screenshots/6. Scanning again.jpeg" height=1000>
  
