@@ -47,7 +47,7 @@ Extra API dependencies:
 
 2. Install the .apk file on your android
 
-    After installing the app, grant app the permission to access the android's camera to use the app properly. Now enjoy scanning some QR codes! <3
+    After installing the app, grant app the permission to access the android's camera to use the app properly. Now enjoy scanning some QR codes and copying the result! <3
 
 
 <b> Screenshots <b>
