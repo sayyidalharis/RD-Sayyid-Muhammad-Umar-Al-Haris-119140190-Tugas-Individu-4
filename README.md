@@ -54,7 +54,7 @@ How to use the app:
 
 3. Open the app via Expo Go
 
-    Open the QR Code link, then scan it on your Expo Go App from your android. Wait for the app to build and then you can use the app! <a href="https://expo.dev/@meepshere/tugasAPIpam119140190"><b>QR Code Link</b></a>
+    Open the <a href="https://expo.dev/@meepshere/tugasAPIpam119140190"><b>QR Code Link</b></a>, then scan it on your Expo Go App from your android. Wait for the app to build and then you can use the app! 
 
 
   <br>
