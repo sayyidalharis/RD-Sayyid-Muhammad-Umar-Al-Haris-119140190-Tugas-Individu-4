@@ -52,6 +52,11 @@ How to use the app:
     - <a href="https://github.com/sayyidalharis/RD-Sayyid-Muhammad-Umar-Al-Haris-119140190-Tugas-Individu-4/blob/master/RD-Sayyid-Muhammad-Umar-Al-Haris-119140190-Tugas-Individu-4.apk"><b>Download the apk here! (uploaded to GitHub)</b></a>
     - <a href="https://drive.google.com/file/d/11BCir3TTJZwJzgjQoS_-_ES-fYFX6Uh2/view?usp=sharing"><b>Or here! (uploaded to Google Drive)</b></a>
 
+3. Open the app via Expo Go
+
+    Open the QR Code link, then scan it on your Expo Go App from your android. Wait for the app to build and then you can use the app! <a href="https://expo.dev/@meepshere/tugasAPIpam119140190"><b>QR Code Link</b></a>
+
+
   <br>
 <b> Screenshots <b>
     
