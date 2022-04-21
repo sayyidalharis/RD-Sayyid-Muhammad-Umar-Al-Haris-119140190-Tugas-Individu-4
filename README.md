@@ -51,6 +51,7 @@ How to use the app:
 2. Install the .apk file on your android
 
     After installing the app, grant app the permission to access the android's camera to use the app properly. Now enjoy scanning some QR codes and copying the result! <3
+    <a https://github.com/sayyidalharis/RD-Sayyid-Muhammad-Umar-Al-Haris-119140190-Tugas-Individu-4/blob/master/RD-Sayyid-Muhammad-Umar-Al-Haris-119140190-Tugas-Individu-4.apk"><b>Download the apk here! (uploaded to GitHub)</b></a>
 
   <br>
 <b> Screenshots <b>
