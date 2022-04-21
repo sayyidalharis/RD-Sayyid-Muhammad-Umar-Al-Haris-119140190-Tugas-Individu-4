@@ -37,13 +37,18 @@ To start the app:
 
 <b> Screenshots <b>
     
+    
 First time opening the app :
     
 <img src="https://github.com/sayyidalharis/RD-Sayyid-Muhammad-Umar-Al-Haris-119140190-Tugas-Individu-4/blob/master/screenshots/1. First time opening the app.jpeg" height=1000>
     
+    
+    
 Granting access :
     
 <img src="https://github.com/sayyidalharis/RD-Sayyid-Muhammad-Umar-Al-Haris-119140190-Tugas-Individu-4/blob/master/screenshots/2. Granting access.jpeg" height=1000>
+    
+    
     
 Scanning QR and Copying the link :
     
