@@ -3,7 +3,7 @@ TUGAS 4 PAM RD 11940190
 
 # utsPAMsayyid
 
-<b> UJIAN TENGAH SEMESTER </b>
+<b> TUGAS API EXPO  </b>
 <b> Pengembangan Aplikasi Mobile</b>
 
 <b>Identitas Mahasiswa</b>
@@ -11,6 +11,11 @@ TUGAS 4 PAM RD 11940190
     Nama    : Sayyid Muhammad Umar Al Haris
     NIM     : 119140190
     Kelas   : Pengembangan Aplikasi Mobile - RD
+    
+<b>Identitas Mahasiswa</b>
+
+    Nama aplikasi (build apk) : RD-Sayyid-Muhammad-Umar-Al-Haris-119140190-Tugas-Individu-4.apk
+    Nama installed aplikasi   : tugasAPIpam119140190
 
 <b> Extra dependencies: </b>
   "dependencies": {
@@ -24,6 +29,10 @@ TUGAS 4 PAM RD 11940190
     "react-native": "0.64.3",
     "react-native-web": "0.17.1"
   },
+  
+Extra API dependencies:
+ - <a href="https://docs.expo.dev/versions/v44.0.0/sdk/bar-code-scanner/"><b>Expo BarCodeScanner</b></a>
+ - <a href="https://docs.expo.dev/versions/v44.0.0/sdk/clipboard/"><b>Expo Clipboard</b></a>
 
 To download dependencies:
 
